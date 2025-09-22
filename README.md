@@ -20,3 +20,7 @@
 |[SUFE Courses](https://github.com/001eander/SufeCourses)|这是我自己上过/参与过课程的资料|
 |[SUFE Course Helper](https://github.com/001eander/SufeCourseHelper)|增大你选到心宜课程的概率|
 |[SUFE Course Table Helper](https://github.com/001eander/SufeCourseTableHelper)|把课表装到手机日历里|
+
+---
+
+欢迎加入[机器人协会](https://github.com/001eander/SUFE-NOPE-Robot)!
