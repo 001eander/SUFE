@@ -24,4 +24,5 @@
 ---
 
 欢迎加入[机器人协会](https://github.com/001eander/SUFE-NOPE-Robot)!
+
 [综测评分计算脚本](https://github.com/404NWF3/SIME_Comprehensive)!
